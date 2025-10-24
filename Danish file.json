@@ -16,5 +16,11 @@
         "key": "danish4252",
         "expirydate": "30-10-2025",
         "Allowoffline": false
-    }
+    },
+       {
+        "device_id": "981bcf1fbcbbe468",
+        "key": "loveyou",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+       }
 ]
