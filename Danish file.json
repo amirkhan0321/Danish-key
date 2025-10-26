@@ -28,5 +28,11 @@
         "key": "danish1212",
         "expirydate": "26-10-2025",
         "Allowoffline": false
-       }
+       },
+      {
+        "device_id": "ffee7dd7f3f71dc4",
+        "key": "free2day",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
+      }
 ]
