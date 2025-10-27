@@ -29,10 +29,17 @@
         "expirydate": "26-10-2025",
         "Allowoffline": false
        },
-      {
+    {
         "device_id": "ffee7dd7f3f71dc4",
-        "key": "free2day",
+        "key": "danish786",
         "expirydate": "28-10-2025",
         "Allowoffline": false
-      }
+    },
+    {
+        "device_id": "0bab24e548a0cb25",
+        "key": "danish4252",
+        "expirydate": "30-10-2026",
+        "Allowoffline": false
+    }
 ]
+
